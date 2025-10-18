@@ -1,0 +1,41 @@
+# === The Loom Requirements ===
+# A Communal Engine for Compassionate Intelligence
+# -------------------------------------------------
+# These dependencies support the full Loom stack:
+# - JSON-RPC commune (Python)
+# - Swamiji Bridge for tone + clarity
+# - Optional: OpenAI integration for human-language synthesis
+
+# --- Core runtime ---
+python>=3.10
+
+# --- Web + RPC layer ---
+flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+
+# --- JSON-RPC handling ---
+jsonrpcserver==5.0.7
+jsonrpcclient==4.0.3
+
+# --- AI + Language Bridge ---
+openai==1.12.0
+tiktoken==0.5.2
+
+# --- Utility libraries ---
+uuid==1.30
+pytz==2023.3.post1
+beautifulsoup4==4.12.2
+
+# --- Development / Optional ---
+python-dotenv==1.0.0
+black==24.2.0
+pytest==8.0.0
+
+# --- Notes ---
+# 1. The Lisp core (loom-core.lisp / loom-commune.lisp) runs separately.
+# 2. Use CL4PY or an equivalent bridge if connecting Python → Lisp.
+# 3. On Replit, all dependencies install automatically at run.
+# 4. For OpenAI integration, ensure OPENAI_API_KEY is set in the environment.
+
+# om tat sat om 🌼
