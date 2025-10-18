@@ -122,5 +122,21 @@ empowering all beings to learn, co-create, and evolve the work in the spirit of 
 For the complete license terms, see LICENSE or visit:
 🔗 https://www.gnu.org/licenses/gpl-3.0.en.html
 
+## 🔑 For Our Less-AI-Savvy Friends
+
+If you're new to AI tools, welcome! The Loom uses a simple connection to OpenAI to help translate cosmic patterns into human wisdom. Here's how to get set up:
+
+1. **Visit** [OpenAI's website](https://platform.openai.com/signup)
+2. **Create a free account** (like signing up for email)
+3. **Go to** [API Keys page](https://platform.openai.com/api-keys)  
+4. **Click** "Create new secret key"
+5. **Give it a friendly name** like "Loom Wisdom"
+6. **Copy** the key (it will look like: `sk-...`)
+7. **That's it!** The Loom will use this to connect
+
+Think of it like getting a library card — it's free, simple, and lets you access wonderful resources.
+
+**Don't worry** — you're not being charged unless you choose to upgrade, and the Loom uses very little of the free credits you get.
+
 “May this Loom remain open and flowering —
 a field of truth, compassion, and the common good.” 🌼# Loom
